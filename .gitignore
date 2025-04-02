@@ -1,0 +1,5 @@
+*.pth
+*.zip
+Dataset/
+Dataset_Cleaned/
+Dataset_Augmented/
