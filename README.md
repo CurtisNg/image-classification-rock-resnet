@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
    - `04_model_application.ipynb`: Applies the trained model to classify random images.
 2. **Run Notebooks**:
    Open in Jupyter Notebook.
-   Execute cells sequentially, ensuring dataset directories (`Dataset/`, `Dataset_Cleaned/`, `Dataset_Augmented/`) are in the root folder.
+   Execute cells sequentially, ensuring dataset directories (`Dataset/`) is in the root folder.
 3. **Classify New Images**:
    Use `04_model_application.ipynb` by modifying the `random_image_path` or providing a custom image path to the `classify_image` function.
 
