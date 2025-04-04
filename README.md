@@ -8,7 +8,7 @@ This repository documents a **personal learning project** focused on building an
 To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/rock-classification-resnet-model.git
+   git clone https://github.com/your-username/image-classification-rock-resnet.git
    ```
 2. **Set Up a Virtual Environment** (optional but recommended).
 
