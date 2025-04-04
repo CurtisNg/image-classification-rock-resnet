@@ -56,9 +56,9 @@ To run this project locally, follow these steps:
 - **Workflow**:
   1. **Baseline**: Froze all layers except the fully connected (`fc`) layer, trained with the given hyperparameters in `03_image_classification.ipynb`.
   2. **Fine-Tuning**: Unfroze `layer4` and `fc`, used differential learning rates to improve feature adaptation.
-- **Data Split**: 80% train, 10% validation, 10% test (stratified).
+- **Data Split**: 80% train, 20% validation & test  (stratified).
 - **Training**: Up to 50 epochs with early stopping (patience=10) based on validation loss.
-- **Hardware**: Optimized for CPU or M1 GPU (MPS backend).
+- **Hardware**: Optimized for CPU or GPU.
 
 ---
 
