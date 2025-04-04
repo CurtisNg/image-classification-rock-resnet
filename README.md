@@ -1,4 +1,4 @@
-# Rock Classification - ResNet Model
+# Image Classification - ResNet Model
 This repository documents a **personal learning project** focused on building an image classification model using ResNet-50 to classify rock types. The dataset, sourced from Kaggle, is processed through data cleaning, augmentation, and modeling stages to achieve robust performance. The project includes the data source of the original dataset, and four Jupyter notebooks detailing the workflow: data cleaning, augmentation, modeling, and model application.
 
 
